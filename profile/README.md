@@ -1,6 +1,7 @@
 # ClosedBrackets
 
 A software studio building apps for clients and open-source tools for developers.
+Founded by [Ahmed Nawaz](https://github.com/AhmedNavaz).
 
 ## Open source
 
